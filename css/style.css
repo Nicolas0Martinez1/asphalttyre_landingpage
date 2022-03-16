@@ -40,7 +40,7 @@ a {
 }
 a:hover, a:focus {
 	text-decoration: none;
-	color: #222;
+	color: rgb(248, 244, 244);
 }
 .clearfix:after {
 	visibility: hidden;
