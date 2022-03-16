@@ -122,7 +122,7 @@ hr {
 }
 /* Home Style */
 header {
-	background: url(../img/banner.svg) no-repeat bottom center;
+	background: url(../img/banner.jpg) no-repeat bottom center;
 	background-size: cover;
 	color: #cfcfcf;
 	position: relative;
@@ -356,10 +356,7 @@ ol.type li a:hover {
 	color: #777;
 	padding: 15px 0 10px 0;
 }
-#footer p {
-	font-size: 13px;
-	margin-top: 10px;
-	color: #050505;
+
 }
 #footer a {
 	color: #aaa;
