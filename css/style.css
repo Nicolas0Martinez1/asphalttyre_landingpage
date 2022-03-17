@@ -223,6 +223,9 @@ img.team-img {
 	padding-bottom: 10px;
 	display: block;
 }
+.banner02 img{
+	width: 100%;
+}
 /* Gallery Section 
 ==============================*/
 #works-section {
@@ -357,7 +360,6 @@ ol.type li a:hover {
 	padding: 15px 0 10px 0;
 }
 
-}
 #footer a {
 	color: #aaa;
 }
