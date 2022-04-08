@@ -165,7 +165,7 @@ header p {
 /* Social Section */
 #social-section {
 	padding: 30px 0;
-
+	background-color: transparent !important;
 }
 #social-section .social ul li {
 	display: inline-block;
