@@ -129,7 +129,7 @@ header {
 	height: 100%;
 }
 header p {
-	color: #ffffff;
+	color: #00ffdd;
 	font-size: 18px;
 	font-weight: 300;
 	margin-bottom: 60px;
@@ -144,18 +144,18 @@ header p {
 }
 .intro-text H1 {
 	font-size: 45px;
-	color: #00ffbd;
+	color: #ffffff;
 	font-weight: 600;
 }
 .color {
-	color: #00ffbd;;
+	color: #000000;;
 	font-weight: 700;
 }
 .btn-default {
 	color: #222;
 	font-family: 'Open Sans', sans-serif;
 	background-color: #00ffbd;
-	border: 1px solid #252525;
+	border: 1px solid #00ffbd;
 	border-radius: 4px;
 	margin: 0 8px;
 	font-size: 18px;
