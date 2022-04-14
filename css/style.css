@@ -340,41 +340,19 @@ img.team-img {
 
 /* Footer */
 #footer {
-	background-color: #222222;
+	background-color: #22222246;
 	color: #777;
-	padding: 15px 0 10px 0;
+	position:sticky;
+	left:0px;
+	bottom:0px;
 }
 
 #footer a {
-	color: #aaa;
-}
-#footer a:hover, #footer a:focus {
-	text-decoration: none;
 	color: #00ffbd;
 }
 
-@media (max-width: 768px) {
-.content {
-	padding: 40% 0 0;
-}
-}
-
-@media (max-width: 603px) {
-#menu.navbar-default {
-	background-color: rgba(0, 0, 0, 0.7);
-}
-label {
-	float: none !important
-}
-.hover-bg .hover-text {
-	padding: 15% 10%;
-}
-}
-
-.footer{
-	background-color: rgba(51, 51, 51, 0.349);
-	position:sticky;
-	left:0px;
-	bottom:0px;	
-	
+@media screen and (max-width:800px){
+	#footer{
+		position: unset;
+	}
 }
