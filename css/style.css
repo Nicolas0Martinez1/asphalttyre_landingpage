@@ -256,7 +256,7 @@ img.team-img {
 
 @media screen and (max-width:800px){
 	#footer{
-		position: unset;
+		position: static;
 	}
 }
 =======
