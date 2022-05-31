@@ -246,6 +246,8 @@ img.team-img {
 #footer {
 	background-color: #22222246;
 	color: #777;
+	position: static;
+	padding:5px;
 }
 
 #footer a {
