@@ -7,3 +7,6 @@
 
 # <a hreff="https://asphalttyre.com">Web site oficial<a/>
 
+<h1>What is Asphalt tyre?</h1>
+
+<p>Asphalt Tyre is the first vehicle metaverse based on Play to Earn on the solana blockchain, where players will obtain NFTs of motorcycles, cars, mechanic workshops, race tracks, among other things, in order to compete and be the best.</p>
