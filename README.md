@@ -2,10 +2,8 @@
   <a href="https://Asphalttyre.com">
     <img alt="Asphalt Tyre" src="img/logotipo.png" style="background: black; padding: 10px" width="250" />
   </a>
+  # <a hreff="https://asphalttyre.com">Web site oficial<a/>
 </p>
-
-
-# <a hreff="https://asphalttyre.com">Web site oficial<a/>
 
 <h1>What is Asphalt tyre?</h1>
 
