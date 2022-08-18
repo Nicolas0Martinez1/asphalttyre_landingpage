@@ -1,6 +1,6 @@
 <p align="lefth">
   <a href="https://Asphalttyre.com">
-    <img alt="Asphalt Tyre" src="img/logotipo.png"/>
+    <img alt="Asphalt Tyre" src="img/logotipo.png" position="center">
   </a>
 </p>
 
