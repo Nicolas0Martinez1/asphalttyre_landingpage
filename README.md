@@ -1,6 +1,6 @@
-<p align="lefth">
+<p align="center">
   <a href="https://Asphalttyre.com">
-    <img alt="Asphalt Tyre" src="img/logotipo.png" position="center">
+    <img alt="Asphalt Tyre" src="img/logotipo.png">
   </a>
 </p>
 
